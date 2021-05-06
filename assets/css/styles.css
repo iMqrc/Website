@@ -69,3 +69,7 @@ button:hover {
   box-shadow: 15px 30px 32px rgba(0, 0, 0, 0.25);
   transform: translateY(-10px);
 }
+
+.adcontainer1 {
+  left: 10%;
+}
