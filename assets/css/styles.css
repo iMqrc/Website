@@ -74,6 +74,10 @@ button:hover {
   transform: translateY(-10px);
 }
 
+.afkpagelogo {
+  top: 90;
+}
+
 .adcontainer1 {
   left: 10%;
 }
