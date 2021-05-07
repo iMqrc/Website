@@ -61,12 +61,10 @@ button:after {
   transition: 0.7s;
 }
 
-div {
-display: inline-block;
-}
-
 body {
   overflow-y: scroll;
+  height: auto;
+  width: auto;
 }
 
 button:hover:after {
