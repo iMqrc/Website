@@ -79,9 +79,12 @@ button:hover {
 }
 
 .afk-div {
-  color: #ffffff;
   text-align: center;
 }
+.afk-div .non{
+  color: grey;
+}
 .afk-div .bold {
+  color: black;
   font-weight: bold;
 }
