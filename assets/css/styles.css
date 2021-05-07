@@ -81,7 +81,9 @@ button:hover {
 }
 
 .afkpageturtle {
-  top: 90;
+  /* Not really responsive, but it works for most computer screens */
+  margin-top: 10%;
+  margin-bottom: -10%;
 }
 
 .afk-div {
@@ -91,7 +93,7 @@ button:hover {
 .afk-div .title {
   color: white;
   font-weight: bold;
-  font-size: 3em;
+  font-size: 300%;
   margin: 0.5em;
 }
 
