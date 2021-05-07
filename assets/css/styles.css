@@ -61,10 +61,6 @@ button:after {
   transition: 0.7s;
 }
 
-div {
-display: inline-block;
-}
-
 body {
   overflow-y: scroll;
 }
@@ -78,10 +74,6 @@ button:hover {
   transform: translateY(-10px);
 }
 
-.afkpagelogo {
-  top: 90;
-}
-
 .adcontainer1 {
   left: 10%;
 }
@@ -90,15 +82,22 @@ button:hover {
   text-align: center;
 }
 
-.afk-div .non {
+.afk-div .title {
   color: white;
-}
-
-.afk-div .no {
-  color: darkred;
-}
-
-.afk-div .bold {
-  color: black;
   font-weight: bold;
+  font-size: 3em;
+  margin: 0.5em;
 }
+
+.afk-div .subtitle {
+  color: white;
+  font-size: 1.2em;
+  margin: 1em;
+}
+
+.afk-div .red-subtitle {
+  color: darkred;
+  font-size: 1.2em;
+  margin: 1em
+}
+
