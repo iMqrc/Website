@@ -84,6 +84,11 @@ button:hover {
 .afk-div .non{
   color: white;
 }
+
+.afk-div .no{
+  color: darkred;
+}
+
 .afk-div .bold {
   color: black;
   font-weight: bold;
