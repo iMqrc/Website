@@ -63,6 +63,8 @@ button:after {
 
 body {
   overflow-y: scroll;
+  height: auto;
+  width: auto;
 }
 
 button:hover:after {
