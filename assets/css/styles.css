@@ -61,6 +61,10 @@ button:after {
   transition: 0.7s;
 }
 
+body {
+  overflow: scroll; 
+}
+
 button:hover:after {
   background-position: -20% 0;
 }
