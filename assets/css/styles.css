@@ -85,11 +85,12 @@ button:hover {
 .afk-div {
   text-align: center;
 }
-.afk-div .non{
+
+.afk-div .non {
   color: white;
 }
 
-.afk-div .no{
+.afk-div .no {
   color: darkred;
 }
 
